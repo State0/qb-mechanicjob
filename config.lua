@@ -100,16 +100,17 @@ Config.Plates = {
 
 Config.Locations = {
     ["exit"] = vector3(-339.04, -135.53, 39),
-    ["duty"] = vector3(-323.39, -129.6, 39.01),
-    ["stash"] = vector3(-319.49, -131.9, 38.98),
-    ["vehicle"] = vector4(-370.51, -107.88, 38.35, 72.56),
+    ["duty"] = vector3(124.88, -3013.6, 7.04),
+    ["stash"] = vector3(128.81, -3009.36, 7.04),
+    ["vehicle"] = vector4(137.96, -2972.85, 6.37, 183.9),
 }
 
 Config.Vehicles = {
     ["flatbed"] = "Flatbed",
     ["towtruck"] = "Towtruck",
-    ["minivan"] = "Minivan (Rental Car)",
-    ["blista"] = "Blista",
+    ["e400w213"] = "Benz",
+    ["21f250"] = "Ford F250",
+    ["21tahoe"] = "Chevy Tahoe",
 }
 
 Config.MinimalMetersForDamage = {
